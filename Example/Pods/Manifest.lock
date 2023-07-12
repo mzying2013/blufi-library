@@ -1,0 +1,23 @@
+PODS:
+  - BlufiLibrary (1.4.0):
+    - OpenSSL-Universal
+  - OpenSSL-Universal (1.1.2100)
+
+DEPENDENCIES:
+  - BlufiLibrary (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - OpenSSL-Universal
+
+EXTERNAL SOURCES:
+  BlufiLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlufiLibrary: 15030a288a14217e3768df61e88b5a6f1906d3ab
+  OpenSSL-Universal: 96db2ea04174c0e3d50d93b74f0e198f980e2aa9
+
+PODFILE CHECKSUM: be85e9d1054583f373eb507e72b840a1c7081475
+
+COCOAPODS: 1.12.1

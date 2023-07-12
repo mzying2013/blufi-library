@@ -1,0 +1,6 @@
+framework module Pods_BlufiLibrary_Tests {
+  umbrella header "Pods-BlufiLibrary_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

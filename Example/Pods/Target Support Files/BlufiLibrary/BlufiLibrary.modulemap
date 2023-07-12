@@ -1,0 +1,6 @@
+module BlufiLibrary {
+  umbrella header "BlufiLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

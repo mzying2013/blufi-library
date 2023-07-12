@@ -1,0 +1,16 @@
+#use_frameworks!
+
+#use_frameworks!
+use_modular_headers!
+
+platform :ios, '13.0'
+
+target 'BlufiLibrary_Example' do
+  pod 'BlufiLibrary', :path => '../'
+
+  target 'BlufiLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

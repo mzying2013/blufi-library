@@ -1,0 +1,29 @@
+{
+  "name": "BlufiLibrary",
+  "version": "1.4.0",
+  "summary": "A short description of BlufiLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://git.typhur.net/iot-platform/ios/BlufiLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bill": "bill.liu@gmail.com"
+  },
+  "source": {
+    "git": "https://git.typhur.net/iot-platform/ios/BlufiLibrary.git",
+    "tag": "1.4.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "BlufiLibrary/Classes/**/*",
+  "public_header_files": "BlufiLibrary/Classes/**/*.h",
+  "frameworks": "CoreBluetooth",
+  "dependencies": {
+    "OpenSSL-Universal": [
+
+    ]
+  }
+}
