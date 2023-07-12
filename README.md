@@ -22,7 +22,7 @@ pod 'BlufiLibrary'
 
 ## Author
 
-ldb, hleyf15@hle-1879.cn
+bill, liumin2011@gmail.com
 
 ## License
 
