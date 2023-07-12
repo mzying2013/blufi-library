@@ -13,12 +13,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-BlufiLibrary is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+It is recommended to push to your own private library and then pull it through pod。
 
-```ruby
-pod 'BlufiLibrary'
-```
+建议克隆到本地后，推送到自己的私有库再拉取。
 
 ## Author
 
